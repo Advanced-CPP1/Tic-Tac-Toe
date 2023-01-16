@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>imgs/bold_icon.png</file>
+        <file>imgs/underline_icon.png</file>
+        <file>imgs/italic_icon.png</file>
+        <file>imgs/notepad_icon.ico</file>
+        <file>imgs/linethrough_icon.png</file>
+        <file>imgs/paste_icon.png</file>
+        <file>imgs/copy_icon.png</file>
+        <file>imgs/cut_icon.png</file>
+        <file>imgs/lowercase_to_uppercase_icon.png</file>
+        <file>imgs/align_right_icon.png</file>
+        <file>imgs/align_center_icon.png</file>
+        <file>imgs/align_left_icon.png</file>
+        <file>imgs/palette-icon.ico</file>
+    </qresource>
+</RCC>
