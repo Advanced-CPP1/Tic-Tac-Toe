@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>media/game_grid.png</file>
+        <file>media/o_icon.png</file>
+        <file>media/straight_line.png</file>
+        <file>media/tic-tac-toe_icon.ico</file>
+        <file>media/x_icon.png</file>
+        <file>media/game_music.mp3</file>
+        <file>media/straight_line_2.png</file>
+        <file>media/game_click.mp3</file>
+        <file>media/success.mp3</file>
+        <file>media/Picture7.png</file>
+        <file>media/Picture3.png</file>
+        <file>media/mute-icon.png</file>
+    </qresource>
+</RCC>
